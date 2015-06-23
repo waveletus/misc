@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home" />
+    <option name="vmParameters" value="-XX:MaxPermSize=384M -Dplay.version=2.2.1 -DartifactoryUrl=http://dev-artifactory.corp.linkedin.com:8081/artifactory -Dsbt.boot.properties=.sbt/liplay/sbt.boot.properties -Dplay.home=.sbt/liplay/framework" />
+  </component>
+</project>
