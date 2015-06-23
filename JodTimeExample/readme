@@ -1,0 +1,7 @@
+How to add new maven project?
+1. In intellj, new project and choose create directory (for main/test structure)
+2. Search in mvn site for the dependance and past to pom.xml <dependancies> </..>  section.
+3. Question: I need to go to module settings(ctrl + down arrow) and add dependance library from maven and search to refresh.
+   Why do I need do this?
+
+   Similarly to gradle.
